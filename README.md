@@ -20,7 +20,7 @@ cofi_insurance_1,yellowai,0,0,1,0,UTILITY,whatsapp business manager,'62895363543
 2. Run `npm install`
 
 ## How to use:
-1. Rename .env.example to .env.
+1. Rename `.env.example` to `.env`.
 2. Set the variables properly.
 3. Put the data that was sent to your email from yellowai into the data folder.
-4. Run `node index.js ./data/{yourcsv}.csv ./data/{yourcsv}.out.csv`
+4. Run `node index.js ./data/{yourcsv}.csv ./data/{yourcsv}.out.csv`.
